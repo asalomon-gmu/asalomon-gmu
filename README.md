@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asalomon-gmu
+- 👋🏾 Hi, I’m @asalomon-gmu
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning rStudio
 - 💞️ I’m looking to collaborate on (???)
